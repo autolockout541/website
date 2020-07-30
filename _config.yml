@@ -4,3 +4,5 @@ description: Mobile Locksmith Service
 show_downloads: false
 google_analytics: UA-174132572-1 
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
