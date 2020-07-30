@@ -6,4 +6,3 @@ google_analytics: UA-174132572-1
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
-encoding: UTF-8
