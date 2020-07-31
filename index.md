@@ -3,7 +3,11 @@ layout: default
 ---
 # Auto Lockout 541
 
-is a locally owned and operated mobile locksmithing service based in Eugene, Oregon. Our goal is to offer Eugene, Springfield, and surrounding areas the absolute lowest priced vehicle unlocking service. We stive 
+is a locally owned and operated mobile locksmithing service based in Eugene, Oregon. Our goal is to offer Eugene, Springfield, and surrounding areas the absolute lowest priced vehicle unlocking service. 
+
+No dispatchers. No hidden fees. 
+
+Oregon CCB: 231424
 
 ## $29.95 - Flat Rate Price! 
 
